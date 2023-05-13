@@ -1,0 +1,28 @@
+
+.nav-links {
+    list-style-type: none;
+    font-family: cursive;
+    font-size: 1rem;
+    text-decoration: none;
+    display:flex;
+    flex-direction: column;
+}
+
+.navbar {
+    background-color: #266DD3;
+    color: #3C3C3C;
+    font-family: cursive;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    border-bottom: 3px solid #3C3C3C;
+}
+
+h3 {
+    text-align: center;
+}
+
+ul li a {
+    text-decoration: none;
+    color: #3C3C3C;
+}
